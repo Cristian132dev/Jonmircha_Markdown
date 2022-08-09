@@ -41,7 +41,7 @@ links en markdown
 
 <!--- para mostrar una imagen es igual al de html solo que al inicio se pone un signo de admiracion y lo que valla en lo guines cadrados sera el alt de la imagen -->
 
-[This is JavaScript](./IMG_20220718_140517.jpg)
+![This is JavaScript](IMG_20220718_140517.jpg))
 
 <!--- semanticamete esta division es para cambiar de tema en markdown, como el hr  -->
 
