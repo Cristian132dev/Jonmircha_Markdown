@@ -132,3 +132,9 @@ function sumar(a, b) {
 
 <!-- para que nuestra hoja de markdown ignore los cambios a nuestros textos se pone una contra barra -->
 \*\*negrita** y \_cursiva_
+
+:smile: this is funny
+
+- [ ] todo
+- [ ] todo
+- [ ] todo
