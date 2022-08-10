@@ -1,7 +1,6 @@
 <!--- esta monda esta mamona -->
 
-# Aprendiendo _Markdown_
-
+# Aprendiendo *Markdown*
 <!--- los parrafos en markdown no necesitan ningun tipo de declaraciones y no hay problemas con los saltos de linea -->
 
 esto es un parrafo
@@ -14,7 +13,9 @@ Commodo veniam elit exercitation velit amet est labore enim. Duis aliqua et inci
 
 se encierra el texto en guiones bajos para las cursivas y se encierra en asteriscos para las negritas
 b
-Aplicando _Cursiva_ y **Negritas**
+Aplicando *Cursiva* y **Negritas**
+
+***negrita curveada***
 
 <!--- debe haber espacio entre el hash y el texto para que se muestre correctamente -->
 
@@ -37,7 +38,7 @@ links en markdown
 
 <!--- los enlaces internos solo funcionan con encabezados y al momento de ingresar el enlace se usa hash y el propio editor nos la completa, y los espacios se representan con un guion -->
 
-[aprendiendo _markdown_](#aprendiendo-markdown)
+[aprendiendo *markdown*](#aprendiendo-markdown)
 
 <!--- para mostrar una imagen es igual al de html solo que al inicio se pone un signo de admiracion y lo que valla en lo guines cadrados sera el alt de la imagen -->
 
@@ -92,7 +93,7 @@ y este es otro texto
 
 > Todo lo que escuchamos es una opinion, no un hecho
 >
-> Todo lo que vemos es una perspectiva, no la verdad
+>> Todo lo que vemos es una perspectiva, no la verdad
 >
 > Marco Aurelio
 
@@ -132,9 +133,3 @@ function sumar(a, b) {
 
 <!-- para que nuestra hoja de markdown ignore los cambios a nuestros textos se pone una contra barra -->
 \*\*negrita** y \_cursiva_
-
-:smile: this is funny
-
-- [ ] todo
-- [ ] todo
-- [ ] todo
