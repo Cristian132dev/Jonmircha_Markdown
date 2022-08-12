@@ -92,7 +92,7 @@ Cabe aclarar que los titulos de la refeerncia se pueden llamar como nosotros que
 
 Este gift se pone igual que una fotografia.
 
-![Nyan Cat](https://s3-eu-west-3.amazonaws.com/web-magazines/entornos/deployment/visavis/wp-content/uploads/2021/02/22165306/ddba22b-2fad9d00-1d3f-4ec8-a65d-199a09dfa4e1.gi "El mejor virus del mundo")
+![Nyan Cat](https://s3-eu-west-3.amazonaws.com/web-magazines/entornos/deployment/visavis/wp-content/uploads/2021/02/22165306/ddba22b-2fad9d00-1d3f-4ec8-a65d-199a09dfa4e1.gif "El mejor virus del mundo")
 
 pero eso no es nada comparado con los badges, que son ensignias que le podemos poner a nuestra documentacion y le dara informacion rapida a nuestros usuarios, hay dos tipos:
 
