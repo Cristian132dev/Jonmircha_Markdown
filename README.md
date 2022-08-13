@@ -94,7 +94,7 @@ Este gift se pone igual que una fotografia.
 
 ![Nyan Cat](https://s3-eu-west-3.amazonaws.com/web-magazines/entornos/deployment/visavis/wp-content/uploads/2021/02/22165306/ddba22b-2fad9d00-1d3f-4ec8-a65d-199a09dfa4e1.gif "El mejor virus del mundo")
 
-pero eso no es nada comparado con los badges, que son ensignias que le podemos poner a nuestra documentacion y le dara informacion rapida a nuestros usuarios, hay dos tipos:
+pero eso no es nada comparado con los **_badges_**, que son ensignias que le podemos poner a nuestra documentacion y le dara informacion rapida a nuestros usuarios, hay dos tipos:
 
 **1.** **Estaticos**
 
@@ -106,7 +106,7 @@ al ser estaticos no se actualizan, ni nos enviara fuera de la documentacion
 
 **2.** **Dinammicos**
 
-Este se conectan a una api que les refresca informacion para poder mostrarla en el badge
+Los badges dinamicos nos permiten enlazarnos a una pagina al darle click, algunos se pueden conectar a una api que les refresca informacion para poder mostrarla en el badge
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Cristian132pro?style=social)
 
