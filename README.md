@@ -102,15 +102,15 @@ pero eso no es nada comparado con los **_badges_**, que son ensignias que le pod
 
 ![Maintend?](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-al ser estaticos no se actualizan, ni nos enviara fuera de la documentacion
+al ser estaticos no se actualizan en vivo
 
 **2.** **Dinammicos**
 
-Los badges dinamicos nos permiten enlazarnos a una pagina al darle click, algunos se pueden conectar a una api que les refresca informacion para poder mostrarla en el badge
+Los badges dinamicos nos permite que algunos se puedan conectar a una api que les refresca informacion para poder mostrarla en el badge
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Cristian132pro?style=social)
 
-y para hacer que el badge nos lleve a algun lado es con la siguiente extructura
+Y para hacer que el badge nos lleve a algun lado es con la siguiente extructura
 
 ```markdown
 [![Nombre](enlace de la imagen del badge)](link donde nos dirigira el badge)
@@ -119,3 +119,5 @@ y para hacer que el badge nos lleve a algun lado es con la siguiente extructura
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573115076487 "enlace")
 
 cada vez mas profesionales, claro que si :sunglasses:
+
+[![Video](https://cutt.ly/1Xt40ad)]
