@@ -120,4 +120,18 @@ Y para hacer que el badge nos lleve a algun lado es con la siguiente extructura
 
 cada vez mas profesionales, claro que si :sunglasses:
 
-[![Video](https://cutt.ly/1Xt40ad)]
+---
+
+## Videos en Markdown
+
+Los videos se agregan de manera similar a los enlaces, pero esto es de manera simulada:
+
+```markdown
+[![Alternative Text](Imagen de portada)](enlace de video)
+```
+
+y nos quedara asi:
+
+[![Los 3 Reyes - Odiame](https://cutt.ly/1Xt40ad)](https://www.youtube.com/watch?v=1BzzckYqT9w)
+
+este nos llevara a una nueva pestaña donde se reproducira el video
